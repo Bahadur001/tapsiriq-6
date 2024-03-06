@@ -1,0 +1,65 @@
+p{
+    color: red;
+    font-size: 5cap;
+    text-align: center;
+   font-family: 'madimi one' , sans-serif;
+   
+} 
+.tre{
+    -Surunenler Sinifinin Pulcuqlar Destesine Aid Yarimdeste.
+
+font-size: 4cap;
+text-align: center;
+font-family: 'madimi one' , sans-serif; 
+color: white;
+padding: top 4cap;
+
+}
+.qwe{
+    text-align: center;
+    font-size: 4cap;
+    color:white;
+    font-family: 'madimi one' , sans-serif;
+}
+.asd{
+    color: white;
+    font-size: 2cap;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 8cap;
+    padding-right: 8cap;
+    padding-top: 4cap;
+}
+
+
+
+body{
+    background-image: url(ilan2.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+ background-color: rgba(0,0,0,0.7);
+
+
+}
+.easy{
+    color: blue;
+   text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .easy :hover , button:active{
+                background-color: rgb(3, 8, 8)}
+
+                .hard:link, button:visited{
+                    color: brown;
+                    text-decoration: none;
+                    background-color: rgb(134, 134, 188);
+                border-radius: 30px;
+                margin-top: 20px;
+                display: inline-block;
+                padding: 15px 25px;
+                }
+                .hard:hover , button:active{
+                    background-color: aqua;
+                }
+                
+              
